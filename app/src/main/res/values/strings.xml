@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Clase2</string>
+    <string name="text_home">Home</string>
+    <string name="text_account">Mi Cuenta</string>
+    <string name="text_contacts">Contactos</string>
+    <string name="text_settings">Configuración</string>
+    <string name="toast_text">\"Go to configuration\"</string>
+</resources>
